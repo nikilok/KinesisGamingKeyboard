@@ -3,9 +3,11 @@
 {u}>{x1}{l}{j}
 [i]>[l]
 {i}>{x1}{l}{k}
-{m}>{x1}{-d}{j}{+d}{d540}{-s}{j}{+s}{d740}{-l}{-s}{j}{+s}{+l}{d780}{-rspc}{-d}{j}{+d}{+rspc}
+{m}>{x1}{-d}{j}{+d}{d550}{-s}{j}{+s}{d750}{-l}{-s}{j}{+s}{+l}{d780}{-rspc}{-d}{j}{+d}{+rspc}
 {lalt}{m}>{x1}{-d}{j}{+d}{d550}{-s}{j}{+s}{d940}{-l}{k}{+l}
-{n}>{x1}{-a}{j}{+a}{d540}{-s}{j}{+s}{d740}{-l}{-s}{j}{+s}{+l}{d780}{-rspc}{-a}{j}{+a}{+rspc}
+{n}>{x1}{-a}{j}{+a}{d550}{-s}{j}{+s}{d750}{-l}{-s}{j}{+s}{+l}{d780}{-rspc}{-a}{j}{+a}{+rspc}
 {lalt}{n}>{x1}{-a}{j}{+a}{d550}{-s}{j}{+s}{d940}{-l}{k}{+l}
+{p}>{-rspc}{-d}{j}{+d}{+rspc}
+{o}>{-rspc}{-a}{j}{+a}{+rspc}
 [lwin]>[ent]
 [lspc]>[lalt]
