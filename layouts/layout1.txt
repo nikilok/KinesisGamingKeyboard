@@ -1,0 +1,5 @@
+{hk1}>{x1}{y}
+{hk0}>{x1}{m}
+{hk2}>{x1}{-lctrl}{-lshft}{t}{+lctrl}{+lshft}
+{hk3}>{x1}{cbrk}
+{hk4}>{x1}{-lctrl}{3}{t}{+lctrl}
