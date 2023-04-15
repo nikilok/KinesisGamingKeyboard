@@ -5,9 +5,7 @@
 [tab]>[ent]
 {u}>{x1}{l}{j}
 {i}>{x1}{l}{k}
-{lalt}{m}>{x1}{-s}{-a}{j}{d550}{-l}{+s}{+a}{-w}{-RSPC}{+l}{k}{+RSPC}{+w}
-{m}>{x1}{-s}{-a}{j}{d550}{-l}{+s}{+a}{-w}{+l}{k}{+w}
-{lalt}{n}>{x1}{-s}{-a}{j}{d550}{-l}{+s}{+a}{-w}{-RSPC}{+l}{k}{+RSPC}{+w}
 {n}>{x1}{-s}{-a}{j}{d550}{-l}{+s}{+a}{-w}{+l}{k}{+w}
-{lalt}{com}>{x1}{-s}{-d}{j}{d550}{-l}{+s}{+d}{-w}{-RSPC}{+l}{k}{+RSPC}{+w}
-{com}>{x1}{-s}{-d}{j}{d550}{-l}{+s}{+d}{-w}{+l}{k}{+w}
+{lalt}{n}>{x1}{-s}{-a}{j}{d550}{-l}{+s}{+a}{-w}{-RSPC}{+l}{k}{+RSPC}{+w}
+{m}>{x1}{-s}{-d}{j}{d550}{-l}{+s}{+d}{-w}{+l}{k}{+w}
+{lalt}{m}>{x1}{-s}{-d}{j}{d550}{-l}{+s}{+d}{-w}{-RSPC}{+l}{k}{+RSPC}{+w}
