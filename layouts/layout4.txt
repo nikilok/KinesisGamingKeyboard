@@ -9,5 +9,7 @@
 {lalt}{n}>{x1}{-a}{j}{+a}{d550}{-s}{j}{+s}{d940}{-l}{k}{+l}
 {p}>{-rspc}{-d}{j}{+d}{+rspc}
 {o}>{-rspc}{-a}{j}{+a}{+rspc}
+{e}>{d}{d20}{-s}{-l}{-rspc}{k}{+rspc}{+l}{+s}
+{q}>{a}{d20}{-s}{-l}{-rspc}{k}{+rspc}{+l}{+s}
 [lwin]>[ent]
 [lspc]>[lalt]
