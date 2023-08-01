@@ -1,1 +1,4 @@
-{hk1}>{x1}{-lctrl}{-lshft}{p}{+lctrl}{+lshft}{t}{u}{r}{b}{o}{ent}{-lctrl}{s}{+lctrl}
+{hk1}>{x1}{-lctrl}{-lalt}{l}{+lalt}{+lctrl}
+{hk2}>{x1}{-lctrl}{f12}{+lctrl}
+{hk4}>{x1}{-lshft}{-lalt}{f12}{+lalt}{+lshft}
+
